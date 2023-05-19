@@ -13,23 +13,7 @@
 > ⑥ Quartz定时组件
 > ⑦ 七牛云
 
-后台管理端:
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/faa23574c4cc432db12aae0bf8621805.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/00976a03710540549930ab98a3532c66.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/a7c2618716d94de3bbe6b6a56a9bc1bf.png)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/5dc982a8f97347189aa1fceb38e044ce.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/a023b95d5d8f4372b054ab26bfe386e0.png)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/c907c5be23414a4690847e0cb1b96752.png)
-
-前台移动端:
-![在这里插入图片描述](https://img-blog.csdnimg.cn/28f659c8e6e345899232a767506dad28.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/909a798e54b54692bca040d0bcdffe54.png)
-
-
-### 5.软件预览
+### 2.软件预览
 #### (1) 后台管理端
 
 > 后台管理端访问路径为:[http://124.220.28.236:8089/backend/page/login/login.html](http://124.220.28.236:8089/backend/page/login/login.html)(账号zhangsan,密码:123456)
