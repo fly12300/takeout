@@ -16,7 +16,7 @@
 ### 2.软件预览
 #### (1) 后台管理端
 
-> 后台管理端访问路径为:[http://124.220.28.236:8089/backend/page/login/login.html](http://124.220.28.236:8089/backend/page/login/login.html)(账号zhangsan,密码:123456)
+> 后台管理端访问路径为:[http://localhost:8089/backend/page/login/login.html](账号admin,密码:123456)
  
 
  - 后台登入
@@ -32,20 +32,20 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/443742e14c45427e9adacecbe69deadd.png)
 
-- 菜品管理(批量处理业务视频中未编写,这里我编写了的)
+- 菜品管理
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/bcfa2db9f9794fb8b7c162dd2ed5f8f7.png)
 
-- 套餐管理(批量处理业务视频中未编写,这里我编写了)
+- 套餐管理
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/886dea1f6b2a4a02aeb67c3cc4cad5c7.png)
 
-- 订单详情(视频中该本分业务未编写,这里我编写了)
+- 订单详情
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/88aafab8bfa54da396c05070b6be9a84.png)
 #### (2) 前台移动端
 
-> 游览器访问需要手机适配设置(按F12适配手机),访问路径: [http://124.220.28.236:8089/front/page/login.html](http://124.220.28.236:8089/front/page/login.html)（手机号:13812345678,点击获取验证码,进行登入即可）
+> 游览器访问需要手机适配设置(按F12适配手机),访问路径: [http://localhost:8089/front/page/login.html]
 > 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f3bd136ab1a14f8b9f273f8bafbd6ea1.png)
 
