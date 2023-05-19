@@ -26,49 +26,28 @@
 
  - 员工管理
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8a643ebdad6d4a729e94576e7b6ebf1c.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/member.png)
 
  - 分类管理
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/443742e14c45427e9adacecbe69deadd.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/fenlei.png)
 
 - 菜品管理
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/bcfa2db9f9794fb8b7c162dd2ed5f8f7.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/dish.png)
 
 - 套餐管理
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/886dea1f6b2a4a02aeb67c3cc4cad5c7.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/taocan.png)
 
 - 订单详情
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/88aafab8bfa54da396c05070b6be9a84.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/order.png)
 #### (2) 前台移动端
 
-> 游览器访问需要手机适配设置(按F12适配手机),访问路径: [http://localhost:8089/front/page/login.html]
+> 访问路径: [http://localhost:8089/front/page/login.html]
 > 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/f3bd136ab1a14f8b9f273f8bafbd6ea1.png)
+![在这里插入图片描述](http://ruw4252pn.hn-bkt.clouddn.com/phone.png)
 
-- 登入页面
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/72375f2a998e4c3f8750e60a66211f4d.png)
 
-- 服务大厅
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2cfc7458eb02458fa23a2b2a23d978ed.png)
-
-- 订单结算页面
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/3cda66d0cf53483da4017074138b43a4.png)
-
-- 个人中心
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ac3fd526ef3a4c4ebbc5b9b7ff7d5d29.png)
-
-- 地址管理
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/83f3c621063c4c6abea3b4b30dfc7968.png)
-
-- 历史订单
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/f08b317dd8444e7d818422ba323097c3.png)
